@@ -1,0 +1,1 @@
+/workspaces/systemsProgramming/financial_data_fetcher/target/debug/financial_data_fetcher: /workspaces/systemsProgramming/financial_data_fetcher/src/main.rs
