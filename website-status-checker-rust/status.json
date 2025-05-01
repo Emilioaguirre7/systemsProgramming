@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://example.com",
+    "status": {
+      "Ok": 200
+    },
+    "response_time_ms": 76,
+    "timestamp": {
+      "secs_since_epoch": 1746139506,
+      "nanos_since_epoch": 334906839
+    }
+  },
+  {
+    "url": "https://thisurldoesnotexist.tld",
+    "status": {
+      "Err": "error sending request for url (https://thisurldoesnotexist.tld/)"
+    },
+    "response_time_ms": 263,
+    "timestamp": {
+      "secs_since_epoch": 1746139506,
+      "nanos_since_epoch": 522418886
+    }
+  }
+]
